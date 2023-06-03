@@ -1,5 +1,4 @@
-'''O encapsulamento é um conceito importante na programação orientada a objetos que visa ocultar os detalhes internos de uma classe e fornecer
-uma interface controlada para interagir com os objetos. Ele é implementado por meio da manipulação de níveis de acesso aos atributos e métodos de uma classe.'''
+'''Encapsulamento'''
 
 class ContaBanco:
     def __init__(self, nome, saldo):

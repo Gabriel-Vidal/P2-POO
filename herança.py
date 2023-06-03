@@ -1,6 +1,4 @@
-'''Herança é um conceito fundamental na programação orientada a objetos (POO) que permite criar novas classes (subclasses) com base em classes existentes (superclasses).
-Na herança, a classe filha (subclasse) herda os atributos e métodos da classe pai (superclasse), possibilitando reutilizar o código e estabelecer uma relação de especialização
-entre as classes.'''
+'''Herança'''
 
 class Veiculo:
     def __init__(self, marca, modelo):
